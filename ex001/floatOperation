@@ -1,0 +1,11 @@
+# This exercise show float type operation
+x = float(input('Place one number:'))
+
+doble = x * 2
+triple = x * 3
+sqroot = x ** (1/2)
+
+
+print('The doble number is:', doble)
+print('The triple number is:', triple)
+print('The square root is:', sqroot)
